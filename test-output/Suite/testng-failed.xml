@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="TelAvivHotel.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Validating(failed)">
+    <classes>
+      <class name="TelAvivHotel.ValidateHomePageFAQs">
+        <methods>
+          <include name="clickFAQs"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- TelAvivHotel.ValidateHomePageFAQs -->
+    </classes>
+  </test> <!-- Validating(failed) -->
+</suite> <!-- Failed suite [Suite] -->

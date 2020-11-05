@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" verbose="0">
+  <listeners>
+    <listener class-name="TelAvivHotel.Listeners"/>
+  </listeners>
+  <test name="Validating(failed)">
+    <classes>
+      <class name="TelAvivHotel.ValidateBlogPostsPage">
+        <methods>
+          <include name="teardown"/>
+          <include name="initialize"/>
+          <include name="validateCenterblogPageLink"/>
+        </methods>
+      </class> <!-- TelAvivHotel.ValidateBlogPostsPage -->
+    </classes>
+  </test> <!-- Validating(failed) -->
+</suite> <!-- Failed suite [Suite] -->

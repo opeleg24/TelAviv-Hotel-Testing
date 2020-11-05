@@ -1,0 +1,5 @@
+12:19:11.540 [main] INFO  resources.base - Verifying About Us Page Center Nav
+12:19:11.604 [main] DEBUG resources.base - Clicking About Us Page Link
+12:19:13.269 [main] INFO  resources.base - Verifying About Us Page Top Nav
+12:19:13.309 [main] DEBUG resources.base - Clicking About Us Page Link
+12:19:15.647 [main] INFO  resources.base - Verifying About Us Page Bottom Nav

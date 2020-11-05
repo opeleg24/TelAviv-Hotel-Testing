@@ -1,0 +1,7 @@
+12:19:08.191 [main] DEBUG resources.base - Clicking Help Chat Button
+12:19:08.389 [main] DEBUG resources.base - Inputing test message
+12:19:08.511 [main] DEBUG resources.base - Clicking Help Chat Button send
+12:19:08.674 [main] DEBUG resources.base - Inputing email
+12:19:09.323 [main] DEBUG resources.base - Clicking Help Chat Button email confirm send
+12:19:09.539 [main] INFO  resources.base - Verifying help chat message received
+12:19:09.687 [main] DEBUG resources.base - Clicking About Us Page Link
